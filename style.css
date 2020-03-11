@@ -10,16 +10,35 @@
     font-size: 30px;
     padding: 1px;
 }
-.parallax { 
-  
-  
-  height: 600px;  
-  width: 100%;
-  background-attachment: fixed;
+
+.fa-music{
+    color: #FF8800;
+}
+
+.size{
+    
+    height: 400px;
+    width: 900px;
+        
+
+}
+
+.bg-image {
+ 
+  height: 50%;
+  width: 50%;
+
+
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-.fa-music{
-    color: #FF8800;
-}
+
+
+
+
+
+
+
+
+
