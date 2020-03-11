@@ -1,0 +1,25 @@
+.title{
+    font-size: 50px;
+    color: gold;
+    
+}
+.linkfonttype{
+    font-family: Berlin Sans FB Demi;
+}
+.fontsizebig{
+    font-size: 30px;
+    padding: 1px;
+}
+.parallax { 
+  
+  
+  height: 600px;  
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fa-music{
+    color: #FF8800;
+}
